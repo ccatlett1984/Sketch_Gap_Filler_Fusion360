@@ -1,0 +1,13 @@
+{
+	"autodeskProduct": "Fusion360",
+	"type": "addin",
+	"id": "6f1c2a4e-9b7d-4e3a-8c51-2d0f7a9e4b13",
+	"author": "Chris Catlett",
+	"description": {
+		"": "Find small gaps in the active sketch, jump the camera to each one, and optionally fill them with visually distinct bridge lines."
+	},
+	"version": "1.0.0",
+	"runOnStartup": true,
+	"supportedOS": "windows|mac",
+	"editEnabled": true
+}
